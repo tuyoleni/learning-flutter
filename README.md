@@ -1,8 +1,9 @@
+![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png)
+
 # 🚀 Learning Flutter
 
 Starting a 30-day journey to learn Flutter from scratch, expanding my skills to create beautiful, cross-platform apps. 
 
-![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png)
 ---
 
 ## **Week 1: Getting Started with Flutter Basics**
